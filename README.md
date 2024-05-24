@@ -1,6 +1,6 @@
 # नमस्ते 🙏🏻 I'm Rajnish kumar mishra
 
-Welcome to my GitHub profile! I'm a [Your Profession or Role] with a passion for [Your Interests or Specializations]. Here's a little more about me:
+Welcome to my GitHub profile! I'm a [Software Development Engineer] with a passion for [Coding]. Here's a little more about me:
 
 ## 🔭 What I’m Working On
 
