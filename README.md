@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 ## 📫 How to Reach Me
 
 - **Email**: rajnish.mishra@jarvis.consulting(mailto:rajnish.mishra@jarvis.consulting)
-- **LinkedIn**: Rajnish kumar mishra(in/rajnish-kumar-mishra-68a8bb163)
-- **Website**: rajnishmishra.dev(https://rajnishmishra.dev)
+- **LinkedIn**: [Rajnish kumar mishra](in/rajnish-kumar-mishra-68a8bb163)
+- **Website**: [rajnishmishra.dev](https://rajnishmishra.dev)
 
 ## 🛠️ Technologies & Tools
 
