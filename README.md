@@ -26,10 +26,6 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 - [xls-file](https://rubygems.org/gems/xls-file)
 <!-- BLOG-POST-LIST:END -->
 
-## 🏆 Achievements
-
-- **Employee of the month**
-
 ## 🤝 Let's Collaborate!
 
 I'm always open to collaborating on interesting projects and ideas. Feel free to reach out if you want to work together!
