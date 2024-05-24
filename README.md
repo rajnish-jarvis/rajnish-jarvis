@@ -7,27 +7,12 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 - **Ruby On Rails**
 - **Angular**
 - **PostgreSql**
-
-## 🌱 What I’m Learning
-
-- **[Technology or Skill 1]**: Why you're learning it or how you're applying it.
-- **[Technology or Skill 2]**: Why you're learning it or how you're applying it.
-
-## 💬 Ask Me About
-
-- **[Topic 1]**: Your expertise or interest in this area.
-- **[Topic 2]**: Your expertise or interest in this area.
-
+- 
 ## 📫 How to Reach Me
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **Twitter**: [Your Twitter Handle](https://twitter.com/yourhandle)
-
-## ⚡ Fun Facts
-
-- **[Fun Fact 1]**: Something interesting or unique about you.
-- **[Fun Fact 2]**: Something interesting or unique about you.
+- **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
+- **LinkedIn**: [Rajnish kumar mishra](in/rajnish-kumar-mishra-68a8bb163)
+- **Website**: [Website](https://rajnishmishra.dev)
 
 ## 🛠️ Technologies & Tools
 
@@ -39,23 +24,15 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-## 📝 Latest Blog Posts
+## 📝 Ruby gems
 
 <!-- BLOG-POST-LIST:START -->
-- [Title of Blog Post 1](link-to-blog-post-1)
-- [Title of Blog Post 2](link-to-blog-post-2)
-- [Title of Blog Post 3](link-to-blog-post-3)
+- [xls-file](https://rubygems.org/gems/xls-file)
 <!-- BLOG-POST-LIST:END -->
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## 🏆 Achievements
 
-- **[Achievement 1]**: Brief description.
-- **[Achievement 2]**: Brief description.
+- **[Employee of the month]**
 
 ## 🤝 Let's Collaborate!
 
