@@ -8,11 +8,6 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 |------------|-----------|------------|-----------|-----------|--------|
 | ![HTML](https://progress-bar.dev/95) | ![CSS](https://progress-bar.dev/95) | ![JavaScript](https://progress-bar.dev/80) | ![Angular](https://progress-bar.dev/90) | ![Ruby on rails](https://progress-bar.dev/85) | ![PostgreSql](https://progress-bar.dev/80)
 
-## 📫 How to Reach Me
-
-- **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
-- **LinkedIn**: [Rajnish kumar mishra](in/rajnish-kumar-mishra-68a8bb163)
-- **Website**: [rajnishmishra.dev](https://rajnishmishra.dev)
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnish-jarvis&show_icons=true&theme=radical)
@@ -22,6 +17,12 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 <!-- BLOG-POST-LIST:START -->
 - [xls-file](https://rubygems.org/gems/xls-file)
 <!-- BLOG-POST-LIST:END -->
+
+## 📫 How to Reach Me
+
+- **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
+- **LinkedIn**: [Rajnish kumar mishra](in/rajnish-kumar-mishra-68a8bb163)
+- **Website**: [rajnishmishra.dev](https://rajnishmishra.dev)
 
 ## 🤝 Let's Collaborate!
 
