@@ -1,4 +1,4 @@
-## नमस्ते ![image](https://github.com/rajnish-jarvis/rajnish-jarvis/assets/81736743/34131b88-f4b6-480c-9f8a-8e15f0cfc038)
+## नमस्ते 🙏 
 
 
 <!--
