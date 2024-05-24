@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 
 ## 📝 Ruby gems
 
+<img src="https://img.shields.io/badge/Ruby-Gem-red?style=flat-square&logo=ruby&logoColor=white"/>
+
 <!-- BLOG-POST-LIST:START -->
 - [xls-file](https://rubygems.org/gems/xls-file)
 <!-- BLOG-POST-LIST:END -->
