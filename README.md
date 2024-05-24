@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 - **Website**: [rajnishmishra.dev](https://rajnishmishra.dev)
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajnish-jarvis&show_icons=true&theme=radical)
 
 
 ## 🛠️ Technologies & Tools
