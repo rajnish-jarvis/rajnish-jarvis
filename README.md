@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![RubyMine](https://img.shields.io/badge/-RubyMine-333333?style=flat&logo=ruby)
 
-## 📝 Ruby gems
-
 <img src="https://img.shields.io/badge/Ruby-Gem-red?style=flat-square&logo=ruby&logoColor=white"/>
 
 <!-- BLOG-POST-LIST:START -->
