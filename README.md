@@ -4,21 +4,28 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 
 ## 💻 Tech Skills
 
-### HTML
-![HTML](https://progress-bar.dev/90)
-
-### CSS
-![CSS](https://progress-bar.dev/85)
-
-### JavaScript
-![JavaScript](https://progress-bar.dev/80)
-
-### React
-![React](https://progress-bar.dev/75)
-
-### Node.js
-![Node.js](https://progress-bar.dev/70)
-
+<div style="display: flex; justify-content: space-between;">
+    <div style="text-align: center;">
+        <p>HTML</p>
+        ![HTML](https://progress-bar.dev/90)
+    </div>
+    <div style="text-align: center;">
+        <p>CSS</p>
+        ![CSS](https://progress-bar.dev/90)
+    </div>
+    <div style="text-align: center;">
+        <p>JavaScript</p>
+        ![JavaScript](https://progress-bar.dev/80)
+    </div>
+    <div style="text-align: center;">
+        <p>Angular</p>
+        ![React](https://progress-bar.dev/90)
+    </div>
+    <div style="text-align: center;">
+        <p>Ruby on rails</p>
+        ![Node.js](https://progress-bar.dev/85)
+    </div>
+</div>
 ## 📫 How to Reach Me
 
 - **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
