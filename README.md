@@ -7,6 +7,10 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 - **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
 - **LinkedIn**: [Rajnish kumar mishra](in/rajnish-kumar-mishra-68a8bb163)
 - **Website**: [rajnishmishra.dev](https://rajnishmishra.dev)
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
