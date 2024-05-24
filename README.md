@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm [Your Name]
+# नमस्ते 🙏🏻 I'm Rajnish kumar mishra
 
 Welcome to my GitHub profile! I'm a [Your Profession or Role] with a passion for [Your Interests or Specializations]. Here's a little more about me:
 
 ## 🔭 What I’m Working On
 
-- **[Project 1 Name]**: Brief description of what it is and the tech stack you're using.
-- **[Project 2 Name]**: Brief description of what it is and the tech stack you're using.
-- **Open Source Contributions**: Projects or organizations you're contributing to.
+- **Ruby On Rails**
+- **Angular**
+- **PostgreSql**
 
 ## 🌱 What I’m Learning
 
