@@ -2,12 +2,6 @@
 
 Welcome to my GitHub profile! I'm a Software Development Engineer with a passion for Coding. Here's a little more about me:
 
-## 🔭 What I’m Working On
-
-- **Ruby On Rails**
-- **Angular**
-- **PostgreSql**
-- 
 ## 📫 How to Reach Me
 
 - **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
@@ -16,13 +10,15 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
 ## 📝 Ruby gems
 
