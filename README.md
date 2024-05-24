@@ -2,6 +2,23 @@
 
 Welcome to my GitHub profile! I'm a Software Development Engineer with a passion for Coding. Here's a little more about me:
 
+## 💻 Tech Skills
+
+### HTML
+![HTML](https://progress-bar.dev/90)
+
+### CSS
+![CSS](https://progress-bar.dev/85)
+
+### JavaScript
+![JavaScript](https://progress-bar.dev/80)
+
+### React
+![React](https://progress-bar.dev/75)
+
+### Node.js
+![Node.js](https://progress-bar.dev/70)
+
 ## 📫 How to Reach Me
 
 - **Email**: [rajnish.mishra@jarvis.consulting](mailto:rajnish.mishra@jarvis.consulting)
