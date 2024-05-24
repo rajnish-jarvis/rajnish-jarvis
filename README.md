@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 
 ## 💻 Tech Skills
 
-| HTML       | CSS       | JavaScript | Angular     | Ruby on rails | PostgreSql |
+|![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)|![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)|![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)|![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)|![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)|![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)|
 |------------|-----------|------------|-----------|-----------|--------|
 | ![HTML](https://progress-bar.dev/95) | ![CSS](https://progress-bar.dev/95) | ![JavaScript](https://progress-bar.dev/80) | ![Angular](https://progress-bar.dev/90) | ![Ruby on rails](https://progress-bar.dev/85) | ![PostgreSql](https://progress-bar.dev/80)
 
