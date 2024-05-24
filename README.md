@@ -10,7 +10,6 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 
 ## 🛠️ Technologies & Tools
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
