@@ -2,6 +2,10 @@
 
 Welcome to my GitHub profile! I'm a Software Development Engineer with a passion for Coding. Here's a little more about me:
 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ## 💻 Tech Skills
 
 |![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)|![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)|![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)|![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)|![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)|![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)|
