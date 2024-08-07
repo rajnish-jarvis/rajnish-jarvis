@@ -17,6 +17,7 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 <!-- BLOG-POST-LIST:START -->
 - [xls-file](https://rubygems.org/gems/xls-file)
 - [Rails with React Env](https://www.linkedin.com/pulse/securely-managing-using-rails-environment-variables-react-mishra-uw3nc/?trackingId=UV%2Byl7jKQLKOmcSTCvHrIA%3D%3D)
+- [CSS Unit usage](https://www.linkedin.com/pulse/commonly-used-css-units-guide-choosing-right-ones-mishra-8qqec/?trackingId=ESyO6m%2BGR3G1jAGVEfSwDA%3D%3D)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📫 How to Reach Me
