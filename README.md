@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm a Software Development Engineer with a passion
 
 <!-- BLOG-POST-LIST:START -->
 - [xls-file](https://rubygems.org/gems/xls-file)
+- [migration-manager](https://rubygems.org/gems/migration-manager)
   
 ## Blogs
 - [Rails with React Env](https://www.linkedin.com/pulse/securely-managing-using-rails-environment-variables-react-mishra-uw3nc/?trackingId=UV%2Byl7jKQLKOmcSTCvHrIA%3D%3D)
